@@ -1,0 +1,136 @@
+task,method,subpopulation,category,mean_jsd,f1
+popquorn_politeness,individual,education,College degree,0.12362853419523745,0.7637017070979335
+popquorn_politeness,individual,education,High school diploma or equivalent,0.12772669593056685,0.7988721804511278
+popquorn_politeness,individual,education,Graduate degree,0.162635156546668,0.7230955259975816
+popquorn_politeness,individual,gender,Woman,0.12114255550959767,0.7552703941338221
+popquorn_politeness,individual,gender,Man,0.10769618266323763,0.8023748939779475
+popquorn_politeness,individual,race,White,0.09805516003162784,0.7938931297709922
+popquorn_politeness,individual,race,Black or African American,0.1594747297774023,0.7911764705882353
+popquorn_politeness,individual,race,Hispanic or Latino,0.1712780277261021,0.8086956521739129
+popquorn_politeness,individual,race,Asian,0.18393010682811928,0.7532467532467533
+popquorn_politeness,individual,age,18-29,0.15845253288936056,0.7518248175182483
+popquorn_politeness,individual,age,40-49,0.14495973360970774,0.8027522935779816
+popquorn_politeness,individual,age,30-39,0.1653446773954378,0.7243510506798517
+popquorn_politeness,individual,age,50-59,0.14625809935569978,0.8288888888888889
+popquorn_politeness,individual,age,60+,0.14161141470915592,0.7780000000000001
+popquorn_politeness,NUTMEG,education,College degree,0.07293177853263336,0.8573853989813242
+popquorn_politeness,NUTMEG,education,High school diploma or equivalent,0.078198120511077,0.8694817658349328
+popquorn_politeness,NUTMEG,education,Graduate degree,0.11719674027735673,0.8280871670702178
+popquorn_politeness,NUTMEG,gender,Woman,0.06419263693744523,0.8670309653916211
+popquorn_politeness,NUTMEG,gender,Man,0.06873811699705742,0.8576512455516013
+popquorn_politeness,NUTMEG,race,White,0.05467847436868367,0.874897792313982
+popquorn_politeness,NUTMEG,race,Black or African American,0.11768366311454818,0.8389955686853766
+popquorn_politeness,NUTMEG,race,Hispanic or Latino,0.13091599359836043,0.844559585492228
+popquorn_politeness,NUTMEG,race,Asian,0.13249652364646647,0.8376963350785341
+popquorn_politeness,NUTMEG,age,18-29,0.10986374515595994,0.846938775510204
+popquorn_politeness,NUTMEG,age,40-49,0.1021839785267941,0.8522167487684728
+popquorn_politeness,NUTMEG,age,30-39,0.11569655804754174,0.8233799237611181
+popquorn_politeness,NUTMEG,age,50-59,0.12090955985941557,0.8199233716475095
+popquorn_politeness,NUTMEG,age,60+,0.09850547750168076,0.8418932527693858
+popquorn_politeness,MACE,education,College degree,0.08736004362093615,0.8331922099915325
+popquorn_politeness,MACE,education,High school diploma or equivalent,0.09512015486176134,0.8461538461538463
+popquorn_politeness,MACE,education,Graduate degree,0.13082461598738301,0.8022988505747126
+popquorn_politeness,MACE,gender,Woman,0.08046610992876585,0.8411214953271028
+popquorn_politeness,MACE,gender,Man,0.08104624262664009,0.8457627118644069
+popquorn_politeness,MACE,race,White,0.06650506861068423,0.863673469387755
+popquorn_politeness,MACE,race,Black or African American,0.12890557761477467,0.8343023255813954
+popquorn_politeness,MACE,race,Hispanic or Latino,0.13383917114495078,0.8363636363636364
+popquorn_politeness,MACE,race,Asian,0.14016053876647036,0.8108108108108109
+popquorn_politeness,MACE,age,18-29,0.1215913189694742,0.8166089965397924
+popquorn_politeness,MACE,age,40-49,0.11619799065397832,0.825836216839677
+popquorn_politeness,MACE,age,30-39,0.12498414810892224,0.8051643192488264
+popquorn_politeness,MACE,age,50-59,0.1194963985751168,0.8293838862559241
+popquorn_politeness,MACE,age,60+,0.1082429273726166,0.8328445747800587
+popquorn_politeness,majority,education,College degree,0.09089972503151512,0.8453947368421053
+popquorn_politeness,majority,education,High school diploma or equivalent,0.09124386756164773,0.8469945355191255
+popquorn_politeness,majority,education,Graduate degree,0.13449637373057374,0.8058035714285715
+popquorn_politeness,majority,gender,Woman,0.08023151424970412,0.8491343775762571
+popquorn_politeness,majority,gender,Man,0.08557706623659446,0.8503289473684211
+popquorn_politeness,majority,race,White,0.07069061371977581,0.8707375099127677
+popquorn_politeness,majority,race,Black or African American,0.12096280086615137,0.8397163120567375
+popquorn_politeness,majority,race,Hispanic or Latino,0.13737953986897403,0.8366013071895426
+popquorn_politeness,majority,race,Asian,0.14139128022969152,0.8309178743961354
+popquorn_politeness,majority,age,18-29,0.11539311589486527,0.8340807174887892
+popquorn_politeness,majority,age,40-49,0.11319349629155637,0.8387096774193548
+popquorn_politeness,majority,age,30-39,0.12304929274699045,0.8122866894197952
+popquorn_politeness,majority,age,50-59,0.11782375245478767,0.8400460299194477
+popquorn_politeness,majority,age,60+,0.10615851072274451,0.8353948620361561
+popquorn_politeness,majority_subpop,education,College degree,0.1183602769110578,0.7390817469204927
+popquorn_politeness,majority_subpop,education,High school diploma or equivalent,0.10280557361995302,0.8305647840531561
+popquorn_politeness,majority_subpop,education,Graduate degree,0.1287016784373401,0.7966804979253113
+popquorn_politeness,majority_subpop,gender,Woman,0.08151204378855047,0.8363926576217079
+popquorn_politeness,majority_subpop,gender,Man,0.08351475652844383,0.840764331210191
+popquorn_politeness,majority_subpop,race,White,0.09888650827215233,0.7728237791932059
+popquorn_politeness,majority_subpop,race,Black or African American,0.12515498328539162,0.8184818481848185
+popquorn_politeness,majority_subpop,race,Hispanic or Latino,0.1317455986008598,0.8404255319148937
+popquorn_politeness,majority_subpop,race,Asian,0.1345931264675104,0.8215297450424929
+popquorn_politeness,majority_subpop,age,18-29,0.11717979292968533,0.8353510895883777
+popquorn_politeness,majority_subpop,age,40-49,0.11181120317620888,0.8410757946210269
+popquorn_politeness,majority_subpop,age,30-39,0.1228093866597232,0.8086185044359948
+popquorn_politeness,majority_subpop,age,50-59,0.11686942100524496,0.8331273176761433
+popquorn_politeness,majority_subpop,age,60+,0.10860946862782361,0.8414507772020725
+popquorn_offensiveness,individual,education,High school diploma or equivalent,0.1049199792160862,0.0
+popquorn_offensiveness,individual,education,College degree,0.07023052463923694,0.0
+popquorn_offensiveness,individual,education,Graduate degree,0.1255672863399097,0.0
+popquorn_offensiveness,individual,gender,Man,0.07802498377187328,0.0
+popquorn_offensiveness,individual,gender,Woman,0.0749971572242727,0.0
+popquorn_offensiveness,individual,race,White,0.05793857950891898,0.0
+popquorn_offensiveness,individual,race,Asian,0.14917713658508605,0.0
+popquorn_offensiveness,individual,race,Black or African American,0.18081253294361524,0.0
+popquorn_offensiveness,individual,age,30-39,0.11492858806751174,0.0
+popquorn_offensiveness,individual,age,50-59,0.11753253988762022,0.0
+popquorn_offensiveness,individual,age,18-29,0.12605145986808253,0.0
+popquorn_offensiveness,individual,age,40-49,0.1253850808034777,0.0
+popquorn_offensiveness,individual,age,60+,0.17565711076175422,0.39867109634551495
+popquorn_offensiveness,NUTMEG,education,High school diploma or equivalent,0.09675160962759982,0.25806451612903225
+popquorn_offensiveness,NUTMEG,education,College degree,0.06511326420522827,0.0
+popquorn_offensiveness,NUTMEG,education,Graduate degree,0.13138811600123504,0.28571428571428564
+popquorn_offensiveness,NUTMEG,gender,Man,0.07226591758497251,0.31460674157303375
+popquorn_offensiveness,NUTMEG,gender,Woman,0.07085282857627889,0.2592592592592593
+popquorn_offensiveness,NUTMEG,race,White,0.059842042539252835,0.0
+popquorn_offensiveness,NUTMEG,race,Asian,0.15333800263696273,0.1
+popquorn_offensiveness,NUTMEG,race,Black or African American,0.15960203039539625,0.12121212121212122
+popquorn_offensiveness,NUTMEG,age,30-39,0.11371227170582283,0.0
+popquorn_offensiveness,NUTMEG,age,50-59,0.11930335006157378,0.04166666666666667
+popquorn_offensiveness,NUTMEG,age,18-29,0.12948568955058878,0.07017543859649122
+popquorn_offensiveness,NUTMEG,age,40-49,0.13421398595268672,0.22535211267605634
+popquorn_offensiveness,NUTMEG,age,60+,0.15250309038153123,0.288659793814433
+popquorn_offensiveness,MACE,education,High school diploma or equivalent,0.10473959288538587,0.0
+popquorn_offensiveness,MACE,education,College degree,0.07280103633071326,0.0
+popquorn_offensiveness,MACE,education,Graduate degree,0.12858359570738515,0.0
+popquorn_offensiveness,MACE,gender,Man,0.07678863327869141,0.0
+popquorn_offensiveness,MACE,gender,Woman,0.07788491525871773,0.0
+popquorn_offensiveness,MACE,race,White,0.06001481879511338,0.0
+popquorn_offensiveness,MACE,race,Asian,0.14904090439473563,0.0
+popquorn_offensiveness,MACE,race,Black or African American,0.16248109330453847,0.0
+popquorn_offensiveness,MACE,age,30-39,0.1190473357987483,0.0
+popquorn_offensiveness,MACE,age,50-59,0.12013049912987597,0.0
+popquorn_offensiveness,MACE,age,18-29,0.13132661363128373,0.0
+popquorn_offensiveness,MACE,age,40-49,0.12790501226430623,0.0
+popquorn_offensiveness,MACE,age,60+,0.1449011619359075,0.0
+popquorn_offensiveness,majority,education,High school diploma or equivalent,0.11043834853560028,0.2882882882882883
+popquorn_offensiveness,majority,education,College degree,0.08349943891470442,0.2666666666666666
+popquorn_offensiveness,majority,education,Graduate degree,0.1422943683676721,0.2884615384615385
+popquorn_offensiveness,majority,gender,Man,0.08741940824428886,0.3063063063063063
+popquorn_offensiveness,majority,gender,Woman,0.09175562644731122,0.2666666666666666
+popquorn_offensiveness,majority,race,White,0.07119693917316,0.2803738317757009
+popquorn_offensiveness,majority,race,Asian,0.15369674810466702,0.3103448275862069
+popquorn_offensiveness,majority,race,Black or African American,0.17952623468919995,0.3495145631067961
+popquorn_offensiveness,majority,age,30-39,0.12570856591091184,0.27722772277227725
+popquorn_offensiveness,majority,age,50-59,0.12566404393900393,0.3137254901960785
+popquorn_offensiveness,majority,age,18-29,0.14207497366517757,0.2982456140350877
+popquorn_offensiveness,majority,age,40-49,0.1316451604698996,0.3461538461538462
+popquorn_offensiveness,majority,age,60+,0.14505972480209495,0.38983050847457634
+popquorn_offensiveness,majority_subpop,education,High school diploma or equivalent,0.10525700337015234,0.10526315789473684
+popquorn_offensiveness,majority_subpop,education,College degree,0.07058178422064382,0.13636363636363638
+popquorn_offensiveness,majority_subpop,education,Graduate degree,0.14641656727885524,0.30188679245283023
+popquorn_offensiveness,majority_subpop,gender,Man,0.09288032402516307,0.0
+popquorn_offensiveness,majority_subpop,gender,Woman,0.08604422472990103,0.0
+popquorn_offensiveness,majority_subpop,race,White,0.06173901972314975,0.2921348314606742
+popquorn_offensiveness,majority_subpop,race,Asian,0.18064416128992267,0.30769230769230765
+popquorn_offensiveness,majority_subpop,race,Black or African American,0.16828457706832906,0.3076923076923077
+popquorn_offensiveness,majority_subpop,age,30-39,0.12625685178522048,0.0
+popquorn_offensiveness,majority_subpop,age,50-59,0.12413262265901438,0.0
+popquorn_offensiveness,majority_subpop,age,18-29,0.13609737239880135,0.0
+popquorn_offensiveness,majority_subpop,age,40-49,0.14121613229654667,0.0
+popquorn_offensiveness,majority_subpop,age,60+,0.16152783100983456,0.0
