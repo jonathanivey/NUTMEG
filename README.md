@@ -84,17 +84,16 @@ When instantiating [`NUTMEG`](NUTMEG/nutmeg.py), you can specify:
 
 See [NUTMEG-Demonstration.ipynb](NUTMEG-Demonstration.ipynb) for a full walkthrough.
 
+Note that the Cython implementation of NUTMEG in the PyPI package has a slightly different output format to make it more intuitive to use.
+
 ## Reference
 
 If you use NUTMEG in your research, please cite:
 ```
-misc{ivey2025nutmegseparatingsignalnoise,
-      title={NUTMEG: Separating Signal From Noise in Annotator Disagreement}, 
-      author={Jonathan Ivey and Susan Gauch and David Jurgens},
-      year={2025},
-      eprint={2507.18890},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2507.18890}, 
+@inproceedings{ivey-etal-2025-nutmeg,
+    title = "NUTMEG: Separating Signal From Noise in Annotator Disagreement",
+    author = "Jonathan Ivey and Susan Gauch and David Jurgens",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    url = "https://arxiv.org/abs/2507.18890",
 }
 ```
