@@ -18,7 +18,7 @@ In this paper, we introduce **NUTMEG**, a tool to model annotator competence in 
 ## Quick Start
 ### 1. Install the package
 ```sh
-pip install nutmeg-cython
+pip install cy-nutmeg
 ```
 
 ### 2. Format your input data
